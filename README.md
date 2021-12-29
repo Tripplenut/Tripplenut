@@ -14,6 +14,9 @@ Email- afabius05@gmail.com
 
 ### Languages and Tools:
 <p align="left">
+<img src="images\java.png">
+<img src="images\cpp.png">
+<img src="images\mysql.png">
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tripplenut&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
