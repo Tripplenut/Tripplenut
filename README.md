@@ -3,16 +3,19 @@
 aka Triplenut(or Tripplenut).
 
 ### About Me
+
 - I'm a senior in highshool
-- I'm currently working on a Recipe App
+- I'm currently working on a small c++ projects
 - I'm learning Java in school
 - I'm learning C++ on my own
 
 ### Contact Info
+
 Discord- Coup#1799\
 Email- afabius05@gmail.com
 
-### Languages and Tools:
+### Languages and Tools
+
 <p align="left">
 <img src="images\java.png">
 <img src="images\cpp.png">
