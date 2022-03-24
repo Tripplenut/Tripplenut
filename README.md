@@ -5,7 +5,7 @@ aka Triplenut(or Tripplenut).
 ### About Me
 
 - I'm a senior in highshool
-- I'm currently working on a small c++ projects
+- I'm currently working on learning data structures
 - I'm learning Java in school
 - I'm learning C++ on my own
 
