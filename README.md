@@ -4,10 +4,10 @@ aka Triplenut(or Tripplenut).
 
 ### About Me
 
-- I'm a senior in highshool
-- I'm currently working on software design
-- I'm learning Java in school
-- I'm learning C++ on my own
+- I'm a freshman in college (Rensselaer Polytechnic Institute)
+- I'm currently working on Text to Yeat
+- I'm learning C++ in school
+- I'm learning Java Script on my own
 
 ### Contact Info
 
