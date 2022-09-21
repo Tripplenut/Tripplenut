@@ -21,6 +21,10 @@ Discord - Coup#1800
 <img src="images\java.png">
 <img src="images\cpp.png">
 <img src="images\mysql.png">
+<img src="images\dart.png">
+<img src="images\flutter.png">
+<img src="images\linux.png">
+<img src="images\ubuntu.png">
 </p>
 
 <p align="left">
