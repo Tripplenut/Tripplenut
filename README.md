@@ -4,15 +4,16 @@ aka Triplenut(or Tripplenut).
 
 ### About Me
 
-- I'm a freshman in college (Rensselaer Polytechnic Institute)
-- I'm currently working on Text to Yeat
-- I'm learning C++ in school
-- I'm learning Java Script on my own
+- I'm a freshman in college at Rensselaer Polytechnic Institute
+- I'm currently working on [Legup](https://github.com/Bram-Hub/Legup)
+- I'm learning C++ and Data Structures in school
+- I'm learning Algorithms on my own
 
 ### Contact Info
 
-Discord- Coup#1799\
-Email- afabius05@gmail.com
+Email - afabius05@gmail.com\
+Discord - Coup#1800
+
 
 ### Languages and Tools
 
@@ -20,8 +21,6 @@ Email- afabius05@gmail.com
 <img src="images\java.png">
 <img src="images\cpp.png">
 <img src="images\mysql.png">
-<img src="images\springboot.png">
-<img src="images\bootstrap.png">
 </p>
 
 <p align="left">
