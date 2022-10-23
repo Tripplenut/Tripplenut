@@ -12,7 +12,7 @@ aka Triplenut(or Tripplenut).
 ### Contact Info
 
 Email - afabius05@gmail.com\
-Discord - Coup#1800
+Discord - Coup#1799
 
 
 ### Languages and Tools
