@@ -5,9 +5,9 @@ aka Triplenut(or Tripplenut).
 ### About Me
 
 - I'm a freshman in college at Rensselaer Polytechnic Institute
-- I'm currently working on [Legup](https://github.com/Bram-Hub/Legup)
-- I'm learning C++ and Data Structures in school
-- I'm learning Algorithms on my own
+- I'm currently working on [RPI Food Finder](https://github.com/RPI-Food-Finder)
+- I'm learning Computer Organization and Foundations of Computer Science in school
+- I'm learning Flutter and Firebase on my own
 
 ### Contact Info
 
