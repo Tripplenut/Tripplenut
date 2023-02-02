@@ -17,16 +17,16 @@ Discord - Coup#1799
 
 ### Languages and Tools
 
-<p align="left">
-<img src="images\java.png">
-<img src="images\cpp.png">
-<img src="images\mysql.png">
-<img src="images\dart.png">
-<img src="images\flutter.png">
-<img src="images\linux.png">
-<img src="images\ubuntu.png">
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64"/>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tripplenut&layout=compact&title_color=ffffff&text_color=daf7dc&bg_color=151515">
 </p>
