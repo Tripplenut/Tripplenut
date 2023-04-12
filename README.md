@@ -30,7 +30,7 @@ Discord - Coup#1799
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tripplenut&show_icons=true&theme=dracula">
+<! <img src="https://github-readme-stats.vercel.app/api?username=Tripplenut&show_icons=true&theme=dracula">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tripplenut&hide=cmake&layout=compact&theme=dracula">
 </p>
