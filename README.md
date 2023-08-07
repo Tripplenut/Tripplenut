@@ -5,14 +5,14 @@ aka Triplenut(or Tripplenut).
 ### About Me
 
 - I'm a sophomore in college at Rensselaer Polytechnic Institute
-- I'm currently working on [RPI Food Finder](https://github.com/RPI-Food-Finder)
+- I'm currently working on [Takuzu](https://github.com/Tripplenut/Takuzu)
 - I'm learning Algorithms in school
-- I'm learning Flutter and Firebase on my own
+- I'm learning React on my freetime
 
 ### Contact Info
 
 Email - afabius05@gmail.com\
-Discord - Coup#1799
+Discord - coup1799
 
 
 ### Languages and Tools
@@ -26,6 +26,7 @@ Discord - Coup#1799
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="64" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64"/>
 <! One day but not yet <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="64"/>
 </p>
 
