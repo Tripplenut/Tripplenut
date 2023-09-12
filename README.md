@@ -5,7 +5,7 @@ aka Triplenut(or Tripplenut).
 ### About Me
 
 - I'm a sophomore in college at Rensselaer Polytechnic Institute
-- I'm currently working on [Takuzu](https://github.com/Tripplenut/Takuzu)
+- I'm currently working on [EasyApp](https://github.com/EasyApp-RPI/EasyApp)
 - I'm learning Algorithms in school
 - I'm learning React on my freetime
 
