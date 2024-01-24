@@ -5,17 +5,18 @@ aka Triplenut(or Tripplenut).
 ### About Me
 
 - I'm a sophomore in college at Rensselaer Polytechnic Institute
-- I'm currently working on [EasyApp](https://github.com/EasyApp-RPI/EasyApp)
-- I'm learning Algorithms in school
-- I'm learning React on my freetime
+- I'm currently working on [ParadiseOS](https://github.com/ParadiseOS/ParadiseOS)
+- I'm learning Algorithms and Graph Theory in school
+- I'm learning [esoteric programming languages](https://esolangs.org) in my free time
 
 ### Contact Info
 
-Email - afabius05@gmail.com\
+Email - afabius05@gmail.com \
 Discord - coup1799
 
 
 ### Languages and Tools
+
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64"/>
@@ -24,7 +25,6 @@ Discord - coup1799
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64"/>
 <! One day but not yet <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="64"/>
