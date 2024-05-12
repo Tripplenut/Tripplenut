@@ -1,37 +1,20 @@
-# Hi, I'm Anthony Fabius
+# Hi, I'm Anthony Fabius 👋
 
-aka Triplenut(or Tripplenut).
+A banner goes here eventually 💀
 
-### About Me
+Hello! I'm Anthony, a junior computer science student at Rensselaer Polytechnic Institute, passionate about building cool open-source software and diving deep into computer science theory. 
 
-- I'm a sophomore in college at Rensselaer Polytechnic Institute
-- I'm currently working on [ParadiseOS](https://github.com/ParadiseOS/ParadiseOS)
-- I'm learning Algorithms and Graph Theory in school
-- I'm learning [esoteric programming languages](https://esolangs.org) in my free time
+### 🔭Currently Working On
 
-### Contact Info
+Most of my time goes towards working on [ParadiseOS](https://github.com/ParadiseOS/ParadiseOS), which is a lightweight 32-bit x86 multi-core operating system open-source operating system currently in development. Aside from that, I am currently developing a graph library in Rust and learning about compiler optimization.
 
-Email - afabius05@gmail.com \
-Discord - coup1799
+### 📚 Learning
 
+At Rensselaer, I'm delving deep into the realms of algorithms and computational theory. I am currently engaged in collaborative research with [Dr.George Slota](https://www.cs.rpi.edu/~slotag/), exploring innovative methods in graph generation.
 
-### Languages and Tools
+### 💂Personal Interests
 
+Aside from being a professional procrastinator when I'm not buried in coursework, you can find me listening to the math rock, fencing, or cooking!
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64"/>
-<! One day but not yet <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="64"/>
-</p>
-
-<p align="center">
-<! <img src="https://github-readme-stats.vercel.app/api?username=Tripplenut&show_icons=true&theme=dracula">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tripplenut&hide=cmake&layout=compact&theme=dracula">
-</p>
+### 📞 Contact Info
+Feel free to contact me via email at afabius05@gmail.com. Alternatively, you can reach out to me via Discord @ coup1799.
